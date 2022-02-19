@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c1a3795-da90-4975-bdd8-eadd0e683999" name="Changes" comment="Added new module">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CsvToBox/CsvToBox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CsvToBox/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/CSV_BOX.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/bin/CSVtoExcel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/SparseBitSet-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-anim-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-awt-util-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-bridge-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-codec-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-constants-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-css-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-dom-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-ext-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-gvt-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-i18n-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-parser-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-script-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-shared-resources-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-svg-dom-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-svggen-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-svgrasterizer-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-transcoder-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-util-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/batik-xml-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/bcpkix-jdk15on-1.70.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/bcprov-jdk15on-1.70.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/bcutil-jdk15on-1.70.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/commons-codec-1.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/commons-collections4-4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/commons-compress-1.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/commons-io-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/commons-math3-3.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/curvesapi-1.06.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/fontbox-2.0.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/graphics2d-0.34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/log4j-api-2.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/pdfbox-2.0.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/poi-5.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/poi-examples-5.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/poi-excelant-5.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/poi-javadoc-5.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/poi-ooxml-5.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/poi-ooxml-full-5.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/poi-ooxml-lite-5.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/poi-scratchpad-5.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/slf4j-api-1.7.32.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/xml-apis-1.4.01.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/xml-apis-ext-1.3.04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/xmlbeans-5.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/xmlgraphics-commons-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/lib/xmlsec-2.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV_BOX/src/CSVtoExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/CsvToBox/src/main/java/CSVtoExcel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="12afbfd5-5e01-4f20-9331-e2c89373cc1a" />
+        <option name="url" value="https://github.com/wawilliam/CSV-till-Box.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25LQmzlI32vvHDpHIyLL9vOLagU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\willi\git\Csv-to-Box" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CsvToBox [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/CsvToBox" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.CsvToBox [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c1a3795-da90-4975-bdd8-eadd0e683999" name="Changes" comment="" />
+      <created>1645304050151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645304050151</updated>
+      <workItem from="1645304051869" duration="859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added new module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new module" />
+  </component>
+</project>
